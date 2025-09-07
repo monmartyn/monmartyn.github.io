@@ -1,5 +1,5 @@
 # Regalian Noble Map
-This is a temporary home for the Noble Family Map embed of Regalian Politics.
+This is a temporary home for the Noble Family Map embed of Regalian Politics. Please wait while the map loads.
 
 <iframe 
   style="border: none;" 
