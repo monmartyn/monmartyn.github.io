@@ -1,5 +1,5 @@
-# monmartyn.github.io
-Regalian Map
+# Regalian Noble Map
+This is a temporary home for the Noble Family Map embed of Regalian Politics.
 
 <iframe 
   style="border: none;" 
